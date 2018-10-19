@@ -17,10 +17,10 @@ Pequeno projeto para demonstrar a estrutura de automação de testes com Appium+
 
 #### Instalação das dependências:
 * Entrar na pasta raiz do projeto e digitar:
-** gem install bundler
-** bundle install
+  * gem install bundler
+  * bundle install
 
 #### Rodar:
 
 * Entrar na pasta raiz do projeto e digitar:
-* cucumber ou bundle exec cucumber
+  * cucumber ou bundle exec cucumber
