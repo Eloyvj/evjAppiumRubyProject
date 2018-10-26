@@ -27,5 +27,6 @@
 #### Rodar:
 #### Run:
 
-* Entrar na pasta raiz do projeto e digitar: / Go to root directory and type:
-  * cucumber ou bundle exec cucumber
+* Entrar na pasta raiz do projeto e digitar um dos comandos: / Go to root directory and type one of commands:
+  * cucumber
+  * bundle exec cucumber
