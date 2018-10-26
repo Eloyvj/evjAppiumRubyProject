@@ -1,9 +1,11 @@
 # evjAppiumRubyProject
 Pequeno projeto para demonstrar a estrutura de automação de testes com Appium+Cucumber+Ruby (Android)
+Small project for show a automation test structure using Appium+Cucumber+Ruby (Android)
 
 =========================
 
 #### Pré-requistos de ambiente:
+#### Environment requirements:
 
 * Linux Ubuntu 16.04 LTS
 * Android SDK
@@ -15,12 +17,15 @@ Pequeno projeto para demonstrar a estrutura de automação de testes com Appium+
 * wd
 * Appium-doctor
 
-#### Instalação das dependências:
-* Entrar na pasta raiz do projeto e digitar:
+#### Instalando as dependências:
+#### Installing dependences:
+
+* Entrar na pasta raiz do projeto e digitar: / Go to root directory and type:
   * gem install bundler
   * bundle install
 
 #### Rodar:
+#### Run
 
-* Entrar na pasta raiz do projeto e digitar:
+* Entrar na pasta raiz do projeto e digitar: / Go to root directory and type:
   * cucumber ou bundle exec cucumber
