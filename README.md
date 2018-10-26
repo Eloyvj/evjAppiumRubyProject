@@ -1,8 +1,8 @@
 # evjAppiumRubyProject
-Pequeno projeto para demonstrar a estrutura de automação de testes com Appium+Cucumber+Ruby (Android)
-Small project for show a automation test structure using Appium+Cucumber+Ruby (Android)
+* Pequeno projeto para demonstrar a estrutura de automação de testes com Appium+Cucumber+Ruby (Android)
+* Small project for show a automation test structure using Appium+Cucumber+Ruby (Android)
 
-=========================
+=========================================================================================
 
 #### Pré-requistos de ambiente:
 #### Environment requirements:
@@ -25,7 +25,7 @@ Small project for show a automation test structure using Appium+Cucumber+Ruby (A
   * bundle install
 
 #### Rodar:
-#### Run
+#### Run:
 
 * Entrar na pasta raiz do projeto e digitar: / Go to root directory and type:
   * cucumber ou bundle exec cucumber
