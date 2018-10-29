@@ -30,3 +30,12 @@
 * Entrar na pasta raiz do projeto e digitar um dos comandos: / Go to root directory and type one of commands:
   * cucumber
   * bundle exec cucumber
+
+#### Rodar e criar relatorio html:
+#### Run and create html report:
+
+* Entrar na pasta raiz do projeto e digitar um dos comandos: / Go to root directory and type one of commands:
+  * cucumber --format html --out reports.html
+  * bundle exec cucumber --format html --out reports.html
+
+
